@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rosrun gazebo_ros spawn_model -sdf -model beer -database beer
+
